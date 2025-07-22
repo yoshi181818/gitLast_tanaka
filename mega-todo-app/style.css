@@ -6,6 +6,9 @@ body {
 }
 header{
   background-image: url(image/konaga.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
 }
 h1 {
   color: #eeeeee;
